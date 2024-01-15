@@ -27,6 +27,11 @@ ul {
     padding: 10px;
 }
 
+.navBar li {
+    display: inline-block;
+    text-decoration: none;
+}
+
 .navItem {
     padding: 5px;
     width: 170px;
@@ -35,9 +40,6 @@ ul {
     border: 2px solid black;
     margin-top: 5px;
     margin-left: 10px;
-}
-
-.navItem a {
     text-decoration: none;
     text-align: center;
     padding: 10px;
